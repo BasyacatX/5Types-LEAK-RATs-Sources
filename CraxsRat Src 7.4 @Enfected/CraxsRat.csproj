@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{0A8D759C-70B8-4896-9174-E7CEB23145CD}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <LangVersion>11.0</LangVersion>
+    <AssemblyName>CraxsRat v7.4</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DrakeUI.Framework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=32bd1f5d97424e1c, processorArchitecture=MSIL">
+      <HintPath>packages\DrakeUI.Framework.1.3.5\lib\net45\DrakeUI.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="GeoIPCitys, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\GeoIPCitys.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Win32.Registry.4.7.0\lib\net461\Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>packages\NAudio.Core.2.2.1\lib\netstandard2.0\NAudio.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.WinMM, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>packages\NAudio.WinMM.2.2.1\lib\netstandard2.0\NAudio.WinMM.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SipaaFramework, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\SipaaFramework.1.1.0\lib\net46\SipaaFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Siticone.Desktop.UI, Version=2.1.1.0, Culture=neutral, PublicKeyToken=9683591576b7f0b4, processorArchitecture=MSIL">
+      <HintPath>packages\Siticone.Desktop.UI.2.1.1\lib\net40\Siticone.Desktop.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Primitives, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.Serialization.Primitives.4.3.0\lib\net46\System.Runtime.Serialization.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.AccessControl, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.AccessControl.4.7.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Principal.Windows.4.7.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WinMM.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\WinMM.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationManifest Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CraxsRat\Apk_studio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Apk_studio.Designer.cs">
+      <DependentUpon>Apk_studio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat\Build.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Build.Designer.cs">
+      <DependentUpon>Build.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat\CraxsSettinngs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CraxsSettinngs.Designer.cs">
+      <DependentUpon>CraxsSettinngs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat\Faker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Faker.Designer.cs">
+      <DependentUpon>Faker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat\Jector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Jector.designer.cs">
+      <DependentUpon>Jector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat\KeyboardManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\KeyboardManager.Designer.cs">
+      <DependentUpon>KeyboardManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Craxs_Rat_Applications.cs" />
+    <Compile Include="Craxs_Rat_PermissionsManager.cs" />
+    <Compile Include="Eagle_Spy.Applications.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Eagle_Spy.Applications.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Craxs_Rat.Build.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Craxs_Rat.Build.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat.Eaglepopup.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CraxsRat.Eaglepopup.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Craxs_Rat.Craxs_RatMain.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Craxs_Rat.Craxs_RatMain.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat.MetroSet_UI\Controls.cs" />
+    <Compile Include="Craxs_Rat.Microphone.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Craxs_Rat.Microphone.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat.My.Resources\Resources.cs" />
+    <Compile Include="CraxsRat.My\MyApplication.cs" />
+    <Compile Include="CraxsRat.My\MyComputer.cs" />
+    <Compile Include="CraxsRat.My\MyProject.cs" />
+    <Compile Include="CraxsRat.My\MySettings.cs" />
+    <Compile Include="CraxsRat.My\MySettingsProperty.cs" />
+    <Compile Include="Eagle_Spy.PermissionsManager.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Eagle_Spy.PermissionsManager.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Eagle_Spy.Ports.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Eagle_Spy.Ports.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Craxs_Rat.Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Craxs_Rat.Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Craxs_Rat.ScreenShoter.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Craxs_Rat.ScreenShoter.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Craxs_Rat.Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Craxs_Rat.Settings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat.sockets\Accept.cs" />
+    <Compile Include="CraxsRat.sockets\Client.cs" />
+    <Compile Include="CraxsRat.sockets\Data.cs" />
+    <Compile Include="CraxsRat.tipfirewalltracker.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CraxsRat.tipfirewalltracker.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat.Updater.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CraxsRat.Updater.resx</DependentUpon>
+    </Compile>
+    <Compile Include="CraxsRat\AccountManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\AddNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\alertform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Apkinstaller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Applications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\AppsProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\AsyncLock.cs" />
+    <Compile Include="CraxsRat\CallPhone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CallsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Calls_Records.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CameraManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ClipboardManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\clrSAVE.cs" />
+    <Compile Include="CraxsRat\clsComputerInfo.cs" />
+    <Compile Include="CraxsRat\Codes.cs" />
+    <Compile Include="CraxsRat\Color_Box0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\comptableform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ContactsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CraxsAlert.cs" />
+    <Compile Include="CraxsRat\CraxsCallLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CraxsMsgbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Craxspopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CraxsMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\CustomFont.cs" />
+    <Compile Include="CraxsRat\CustomFontDrawString.cs" />
+    <Compile Include="CraxsRat\DebugProtect1.cs" />
+    <Compile Include="CraxsRat\Dialog1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Dialog2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\DialogPloice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Download.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Drooper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\EditConnections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Editor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\EditSocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\FileManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\GeoIP.cs" />
+    <Compile Include="CraxsRat\GetCountryName2.cs" />
+    <Compile Include="CraxsRat\GetFlagThisIp.cs" />
+    <Compile Include="CraxsRat\getIconFrmReg.cs" />
+    <Compile Include="CraxsRat\Icons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\infoServer.cs" />
+    <Compile Include="CraxsRat\inp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Keylogger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\LanguageSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ListData.cs" />
+    <Compile Include="CraxsRat\LocationManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Microphone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\MultiSounds.cs" />
+    <Compile Include="CraxsRat\MyWebClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\NativeMethods.cs" />
+    <Compile Include="CraxsRat\nonetform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Notifications.cs" />
+    <Compile Include="CraxsRat\Notif_Sound.cs" />
+    <Compile Include="CraxsRat\PBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\PermissionsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Ports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Program.cs" />
+    <Compile Include="CraxsRat\RefreshExplorer.cs" />
+    <Compile Include="CraxsRat\RegistryHandler.cs" />
+    <Compile Include="CraxsRat\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ResizeableControl.cs" />
+    <Compile Include="CraxsRat\reso.cs" />
+    <Compile Include="CraxsRat\RTB.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ScreenLoger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ScreenReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ScreenReaderV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ScreenShoter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\SecurityKey.cs" />
+    <Compile Include="CraxsRat\SelfRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ShellTerminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\smsMaker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\SMSManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\snapsdownloader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\SpySettings.cs" />
+    <Compile Include="CraxsRat\Upload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\WebViewMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\Win_Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraxsRat\ZoomPictureBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VB-AnonymousDelegate_0.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CraxsRat\Build.resx">
+      <DependentUpon>Build.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\CraxsSettinngs.resx">
+      <DependentUpon>CraxsSettinngs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Faker.resx">
+      <DependentUpon>Faker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Jector.resx">
+      <DependentUpon>Jector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eagle_Spy.Applications.resx" LogicalName="Eagle_Spy.Applications.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Eagle_Spy.Applications.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Craxs_Rat.Build.resx" LogicalName="Eagle_Spy.Build.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Craxs_Rat.Build.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat.Eaglepopup.resx" LogicalName="Eagle_Spy.Eaglepopup.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CraxsRat.Eaglepopup.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Craxs_Rat.Craxs_RatMain.resx" LogicalName="Eagle_Spy.EagleSpyMain.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Craxs_Rat.Craxs_RatMain.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Craxs_Rat.Microphone.resx" LogicalName="Eagle_Spy.Microphone.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Craxs_Rat.Microphone.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eagle_Spy.PermissionsManager.resx" LogicalName="Eagle_Spy.PermissionsManager.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Eagle_Spy.PermissionsManager.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eagle_Spy.Ports.resx" LogicalName="Eagle_Spy.Ports.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Eagle_Spy.Ports.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Craxs_Rat.Resources.resx" LogicalName="Eagle_Spy.Resources.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Craxs_Rat.Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Craxs_Rat.ScreenShoter.resx" LogicalName="Eagle_Spy.ScreenShoter.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Craxs_Rat.ScreenShoter.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Craxs_Rat.Settings.resx" LogicalName="Eagle_Spy.Settings.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Craxs_Rat.Settings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat.tipfirewalltracker.resx" LogicalName="Eagle_Spy.tipfirewalltracker.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CraxsRat.tipfirewalltracker.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat.Updater.resx" LogicalName="Eagle_Spy.Updater.resources">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CraxsRat.Updater.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\AccountManager.resx">
+      <DependentUpon>AccountManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\AddNumber.resx">
+      <DependentUpon>AddNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\alertform.resx">
+      <DependentUpon>alertform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Apkinstaller.resx">
+      <DependentUpon>Apkinstaller.cs</DependentUpon>
+    </EmbeddedResource>
+    <Resource Include="CraxsRat\Applications.resx">
+      <DependentUpon>Applications.cs</DependentUpon>
+    </Resource>
+    <EmbeddedResource Include="CraxsRat\AppsProperties.resx">
+      <DependentUpon>AppsProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <Resource Include="CraxsRat\CraxsMain.resx">
+      <DependentUpon>CraxsMain.cs</DependentUpon>
+    </Resource>
+    <Resource Include="CraxsRat\CraxsCallLogs.resx">
+      <DependentUpon>CraxsCallLogs.cs</DependentUpon>
+    </Resource>
+    <Resource Include="CraxsRat\Craxspopup.resx">
+      <DependentUpon>Craxspopup.cs</DependentUpon>
+    </Resource>
+    <EmbeddedResource Include="CraxsRat\CallPhone.resx">
+      <DependentUpon>CallPhone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\CallsManager.resx">
+      <DependentUpon>CallsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Calls_Records.resx">
+      <DependentUpon>Calls_Records.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\CameraManager.resx">
+      <DependentUpon>CameraManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\ClipboardManager.resx">
+      <DependentUpon>ClipboardManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\comptableform.resx">
+      <DependentUpon>comptableform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\ContactsManager.resx">
+      <DependentUpon>ContactsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Dialog1.resx">
+      <DependentUpon>Dialog1.cs</DependentUpon>
+    </EmbeddedResource>
+    <Resource Include="CraxsRat\Microphone.resx">
+      <DependentUpon>Microphone.cs</DependentUpon>
+    </Resource>
+    <Resource Include="CraxsRat\PermissionsManager.resx">
+      <DependentUpon>PermissionsManager.cs</DependentUpon>
+    </Resource>
+    <Resource Include="CraxsRat\Ports.resx">
+      <DependentUpon>Ports.cs</DependentUpon>
+    </Resource>
+    <EmbeddedResource Include="CraxsRat\Dialog2.resx">
+      <DependentUpon>Dialog2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\DialogPloice.resx">
+      <DependentUpon>DialogPloice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Drooper.resx">
+      <DependentUpon>Drooper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\CraxsMsgbox.resx">
+      <DependentUpon>CraxsMsgbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\FileManager.resx">
+      <DependentUpon>FileManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\Keylogger.resx">
+      <DependentUpon>Keylogger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\LanguageSelector.resx">
+      <DependentUpon>LanguageSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\LocationManager.resx">
+      <DependentUpon>LocationManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\ScreenReader.resx">
+      <DependentUpon>ScreenReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\ScreenReaderV2.resx">
+      <DependentUpon>ScreenReaderV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <Resource Include="CraxsRat\ScreenShoter.resx">
+      <DependentUpon>ScreenShoter.cs</DependentUpon>
+    </Resource>
+    <Resource Include="CraxsRat\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Resource>
+    <EmbeddedResource Include="CraxsRat\SelfRemove.resx">
+      <DependentUpon>SelfRemove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\smsMaker.resx">
+      <DependentUpon>smsMaker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\SMSManager.resx">
+      <DependentUpon>SMSManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraxsRat\WebViewMonitor.resx">
+      <DependentUpon>WebViewMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2023-11-21_13-40-14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VaadinPaperplane.png" />
+    <None Include="Resources\TeenyiconsUnlockSolid.png" />
+    <None Include="Resources\swtchon.png" />
+    <None Include="Resources\icons8-android-studio-100.png" />
+    <None Include="Resources\icons8-client-100.png" />
+    <None Include="Resources\icons8-clean-50.png" />
+    <None Include="Resources\icons8-internet-antenna-30.png" />
+    <None Include="Resources\icons8-block-user-96.png" />
+    <None Include="Resources\icons8-folder-50.png" />
+    <None Include="Resources\icons8-online-support-64.png" />
+    <None Include="Resources\icons8-target-audience-68.png" />
+    <None Include="Resources\icons8-cloud-641.png" />
+    <None Include="Resources\icons8-cloud-64 %281%291.png" />
+    <None Include="Resources\icons8-access-100.png" />
+    <None Include="Resources\Android_logo_2019_%28stacked%29.png" />
+    <None Include="Resources\Android_logo_2019_%28stacked%291.png" />
+    <None Include="Resources\icons8-locked-network-64.png" />
+    <None Include="Resources\icons8-play-record-64.png" />
+    <None Include="Resources\icons8-public-speaking-64.png" />
+    <None Include="Resources\icons8-send-30.png" />
+    <None Include="Resources\icons8-browser-641.png" />
+    <None Include="Resources\icons8-xbox-menu-30.png" />
+    <None Include="Resources\icons8-stop-100.png" />
+    <None Include="Resources\icons8-back-64.png" />
+    <None Include="Resources\icons8-minus-50.png" />
+    <None Include="Resources\icons8-x-642.png" />
+    <None Include="Resources\icons8-mobile-64.png" />
+    <None Include="Resources\icons8-lock-96.png" />
+    <None Include="Resources\icons8-padlock-64.png" />
+    <None Include="Resources\icons8-no-audio-64.png" />
+    <None Include="Resources\icons8-speaker-64.png" />
+    <None Include="Resources\icons8-lock-643.png" />
+    <None Include="Resources\icons8-power-off-button-641.png" />
+    <None Include="Resources\icons8-stop-503.png" />
+    <None Include="Resources\eagle.png" />
+    <None Include="Resources\icons8-restart-64.png" />
+    <None Include="Resources\icons8-x-30.png" />
+    <None Include="Resources\icons8-phone-1001.png" />
+    <None Include="Resources\icons8-video-64.png" />
+    <None Include="Resources\icons8-keyboard-100.png" />
+    <None Include="Resources\icons8-play-record-641.png" />
+    <None Include="Resources\icons8-ocr-64.png" />
+    <None Include="Resources\icons8-kindle-100.png" />
+    <None Include="Resources\icons8-location-100.png" />
+    <None Include="Resources\icons8-folder-501.png" />
+    <None Include="Resources\icons8-cell-phone-with-up-and-down-arrows-96.png" />
+    <None Include="Resources\icons8-bank-1001.png" />
+    <None Include="Resources\icons8-number-pad-100.png" />
+    <None Include="Resources\icons8-sms-100.png" />
+    <None Include="Resources\icons8-contact-64.png" />
+    <None Include="Resources\icons8-cut-100.png" />
+    <None Include="Resources\icons8-google-100.png" />
+    <None Include="Resources\icons8-terminal-641.png" />
+    <None Include="Resources\icons8-google-play-100.png" />
+    <None Include="Resources\icons8-lock-961.png" />
+    <None Include="Resources\icons8-padlock-641.png" />
+    <None Include="Resources\icons8-message-64.png" />
+    <None Include="Resources\icons8-microsoft-admin-100.png" />
+    <None Include="Resources\icons8-notification-64.png" />
+    <None Include="Resources\icons8-email-48.png" />
+    <None Include="Resources\icons8-shortcut-1001.png" />
+    <None Include="Resources\icons8-delete-64.png" />
+    <None Include="Resources\icons8-electric-100.png" />
+    <None Include="Resources\icons8-folder-32.png" />
+    <None Include="Resources\icons8-restart-641.png" />
+    <None Include="Resources\icons8-hand-100.png" />
+    <None Include="Resources\notfi.Icon.ico" />
+    <None Include="Resources\LOGO.png" />
+    <None Include="Resources\swtchoff.png" />
+    <None Include="Resources\max.ico" />
+    <None Include="Resources\download-removebg-preview.png" />
+    <None Include="Resources\download-removebg-preview1.png" />
+    <None Include="Resources\remo.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\folder.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\sms.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\calls.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\contacts.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\account.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\applications.png" />
+    <None Include="bin\Debug\res\Icons\Menu_Items\17\add.png" />
+    <Content Include="CraxsRat\Bitmap1.bmp" />
+    <Content Include="icon.ico" />
+    <None Include="Resources\as.png" />
+    <None Include="Resources\Panel6.BackgroundImage.png" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\PictureBox4.Image.gif" />
+    <None Include="Resources\PictureBox3.Image.gif" />
+    <None Include="Resources\Screenshot_1.png" />
+    <None Include="Resources\Screenshot_5.png" />
+    <None Include="Resources\Screenshot_6.png" />
+    <None Include="Resources\Screenshot_2.png" />
+    <None Include="Resources\Screenshot_7.png" />
+    <None Include="Resources\Screenshot_3.png" />
+    <None Include="Resources\Screenshot_8.png" />
+    <None Include="Resources\Screenshot_4.png" />
+    <None Include="Resources\Screenshot_11.png" />
+    <None Include="Resources\Screenshot_12.png" />
+    <None Include="Resources\Screenshot_21.png" />
+    <None Include="Resources\IonLocked.png" />
+    <None Include="Resources\LetsIconsReturn.png" />
+    <None Include="Resources\MaterialSymbolsMinimizeRounded.png" />
+    <None Include="Resources\MaterialSymbolsCloseRounded.png" />
+    <None Include="Resources\QQ20241001-173033.png" />
+    <None Include="Resources\QQ20241001-173026.png" />
+    <None Include="Resources\MaterialSymbolsCircle.png" />
+    <None Include="Resources\QQ20241001-174754.png" />
+    <Content Include="Resources\swtchoff1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

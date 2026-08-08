@@ -1,0 +1,1173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CraxsRat Src 7.4 @Enfected\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|d:\\craxsrat src 7.4 @enfected\\craxsrat\\geoip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\geoip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat.my.resources\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat.my.resources\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat.sockets\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat.sockets\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat.sockets\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat.sockets\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\permissionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\permissionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\refreshexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\refreshexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat.my\\myapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat.my\\myapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxs_rat_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxs_rat_applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxs_rat_permissionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxs_rat_permissionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat.eaglepopup.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat.eaglepopup.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat.metroset_ui\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat.metroset_ui\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\customfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\customfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\ports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\ports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\jector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\jector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\drooper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\drooper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\color_box0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\color_box0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\callsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\callsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsySettinngs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CraxsRat\\CraxsySettinngs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\dialogploice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\dialogploice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\craxsmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\craxsmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\dialog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\dialog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\dialog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\dialog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\download.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\craxsmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\craxsmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\faker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\faker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\editsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\editsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\icons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\icons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\inp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\inp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\win_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\win_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\webviewmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\webviewmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\upload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\snapsdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\snapsdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\shellterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\shellterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\screenloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\screenloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\screenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\screenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\screenreaderv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\screenreaderv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\microphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\microphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\locationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\listdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\listdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\languageselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\languageselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\keylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\keylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\keyboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\keyboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\ports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\ports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\screenshoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\screenshoter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\applications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\appsproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\appsproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\addnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\addnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\build.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\build.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CraxsRat||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\eagle_spy.applications.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:eagle_spy.applications.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\jector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\jector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\craxspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\craxspopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\craxsmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\craxsmsgbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\craxscalllogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\craxscalllogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\contactsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\contactsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\comptableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\comptableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\alertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\alertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\nonetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\nonetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\clipboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\clipboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\calls_records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\calls_records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\callphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\callphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\multisounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\multisounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\selfremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\selfremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\smsmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\smsmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\smsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\smsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\asynclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D759C-70B8-4896-9174-E7CEB23145CD}|CraxsRat.csproj|solutionrelative:craxsrat\\asynclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CraxsRat Src 7.4 @Enfected\\craxsrat\\craxsysettinngs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:craxsrat\\craxsysettinngs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.sockets\\Client.cs",
+              "RelativeDocumentMoniker": "CraxsRat.sockets\\Client.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.sockets\\Client.cs",
+              "RelativeToolTip": "CraxsRat.sockets\\Client.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAA8wJkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T00:13:42.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accept.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.sockets\\Accept.cs",
+              "RelativeDocumentMoniker": "CraxsRat.sockets\\Accept.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.sockets\\Accept.cs",
+              "RelativeToolTip": "CraxsRat.sockets\\Accept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T00:13:41.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.My.Resources\\Resources.cs",
+              "RelativeDocumentMoniker": "CraxsRat.My.Resources\\Resources.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.My.Resources\\Resources.cs",
+              "RelativeToolTip": "CraxsRat.My.Resources\\Resources.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T00:13:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Report.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Report.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Report.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CraxsRat\\Report.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T00:13:19.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefreshExplorer.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\RefreshExplorer.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\RefreshExplorer.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\RefreshExplorer.cs",
+              "RelativeToolTip": "CraxsRat\\RefreshExplorer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T00:13:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyApplication.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.My\\MyApplication.cs",
+              "RelativeDocumentMoniker": "CraxsRat.My\\MyApplication.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.My\\MyApplication.cs",
+              "RelativeToolTip": "CraxsRat.My\\MyApplication.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T00:12:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomFont.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CustomFont.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CustomFont.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CustomFont.cs",
+              "RelativeToolTip": "CraxsRat\\CustomFont.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T01:02:14.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Craxs_Rat_PermissionsManager.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\Craxs_Rat_PermissionsManager.cs",
+              "RelativeDocumentMoniker": "Craxs_Rat_PermissionsManager.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\Craxs_Rat_PermissionsManager.cs",
+              "RelativeToolTip": "Craxs_Rat_PermissionsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T01:01:56.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Craxs_Rat_Applications.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\Craxs_Rat_Applications.cs",
+              "RelativeDocumentMoniker": "Craxs_Rat_Applications.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\Craxs_Rat_Applications.cs",
+              "RelativeToolTip": "Craxs_Rat_Applications.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAkwOsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:25.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeoIP.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\GeoIP.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\GeoIP.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\GeoIP.cs",
+              "RelativeToolTip": "CraxsRat\\GeoIP.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T01:02:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CraxsySettinngs.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsySettinngs.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CraxsySettinngs.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsySettinngs.cs",
+              "RelativeToolTip": "CraxsRat\\CraxsySettinngs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionsManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\PermissionsManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\PermissionsManager.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\PermissionsManager.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CraxsRat\\PermissionsManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Controls.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.MetroSet_UI\\Controls.cs",
+              "RelativeDocumentMoniker": "CraxsRat.MetroSet_UI\\Controls.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.MetroSet_UI\\Controls.cs",
+              "RelativeToolTip": "CraxsRat.MetroSet_UI\\Controls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T01:02:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ports.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Ports.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Ports.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Ports.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CraxsRat\\Ports.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Program.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Program.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Program.cs",
+              "RelativeToolTip": "CraxsRat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CraxsRat.Eaglepopup.resx",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.Eaglepopup.resx",
+              "RelativeDocumentMoniker": "CraxsRat.Eaglepopup.resx",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.Eaglepopup.resx",
+              "RelativeToolTip": "CraxsRat.Eaglepopup.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-07-20T01:06:18.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Drooper.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Drooper.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Drooper.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Drooper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DialogPloice.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\DialogPloice.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\DialogPloice.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\DialogPloice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Build.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Build.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Build.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Build.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CallsManager.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CallsManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CallsManager.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\CallsManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CraxsMain.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsMain.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CraxsMain.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\CraxsMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Jector.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Jector.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Jector.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Jector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dialog1.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Dialog1.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Dialog1.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Dialog1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Color_Box0.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Color_Box0.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Color_Box0.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Color_Box0.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dialog2.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Dialog2.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Dialog2.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Dialog2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Download.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Download.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Download.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Download.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CraxsMain.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsMain.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CraxsMain.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsMain.cs",
+              "RelativeToolTip": "CraxsRat\\CraxsMain.cs",
+              "ViewState": "AgIAAJkyAAAAAAAAAAAAwFgVAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Faker.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Faker.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Faker.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Faker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditSocket.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\EditSocket.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\EditSocket.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\EditSocket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Editor.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Editor.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Editor.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Editor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Icons.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Icons.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Icons.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Icons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "information.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\information.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\information.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "inp.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\inp.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\inp.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\inp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Win_Users.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Win_Users.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Win_Users.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Win_Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WebViewMonitor.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\WebViewMonitor.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\WebViewMonitor.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\WebViewMonitor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "snapsdownloader.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\snapsdownloader.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\snapsdownloader.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\snapsdownloader.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Settings.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Settings.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShellTerminal.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ShellTerminal.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ShellTerminal.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\ShellTerminal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ScreenLoger.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ScreenLoger.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ScreenLoger.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\ScreenLoger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ScreenReader.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ScreenReader.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ScreenReader.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\ScreenReader.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Upload.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Upload.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Upload.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Upload.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ScreenReaderV2.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ScreenReaderV2.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ScreenReaderV2.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\ScreenReaderV2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Microphone.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Microphone.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Microphone.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Microphone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LocationManager.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\LocationManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\LocationManager.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\LocationManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ListData.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ListData.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ListData.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ListData.cs",
+              "RelativeToolTip": "CraxsRat\\ListData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LanguageSelector.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\LanguageSelector.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\LanguageSelector.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\LanguageSelector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Keylogger.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Keylogger.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Keylogger.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\Keylogger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "KeyboardManager.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\KeyboardManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\KeyboardManager.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\KeyboardManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Ports.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Ports.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Ports.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Ports.cs",
+              "RelativeToolTip": "CraxsRat\\Ports.cs",
+              "ViewState": "AgIAAM0EAAAAAAAAAAAWwN0EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Build.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Build.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Build.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Build.cs",
+              "RelativeToolTip": "CraxsRat\\Build.cs",
+              "ViewState": "AgIAAHY6AAAAAAAAAAAmwI46AAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FileManager.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\FileManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\FileManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SOURCE CODES\\CraxsRat Src\\CraxsRat\\FileManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ScreenShoter.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ScreenShoter.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ScreenShoter.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\ScreenShoter.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Applications.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Applications.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Applications.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\Applications.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AccountManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\AccountManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\AccountManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AddNumber.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\AddNumber.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\AddNumber.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\AddNumber.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppsProperties.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\AppsProperties.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\AppsProperties.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\AppsProperties.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Build.Designer.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Build.Designer.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Build.Designer.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Build.Designer.cs",
+              "RelativeToolTip": "CraxsRat\\Build.Designer.cs",
+              "ViewState": "AgIAAG4KAAAAAAAAAAAAAIQKAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CraxsRat",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.csproj",
+              "RelativeDocumentMoniker": "CraxsRat.csproj",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat.csproj",
+              "RelativeToolTip": "CraxsRat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-20T00:55:11.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Eagle_Spy.Applications.resx",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\Eagle_Spy.Applications.resx",
+              "RelativeDocumentMoniker": "Eagle_Spy.Applications.resx",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\Eagle_Spy.Applications.resx",
+              "RelativeToolTip": "Eagle_Spy.Applications.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2026-07-20T00:55:11.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Jector.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Jector.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Jector.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Jector.cs",
+              "RelativeToolTip": "CraxsRat\\Jector.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAnwIAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CraxsySettinngs.cs [Design]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsySettinngs.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CraxsySettinngs.cs",
+              "ToolTip": "C:\\Users\\tarek\\Desktop\\CraxsRat Src\\CraxsRat\\CraxsySettinngs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Craxspopup.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Craxspopup.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Craxspopup.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\Craxspopup.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CraxsMsgbox.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsMsgbox.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CraxsMsgbox.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\CraxsMsgbox.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CraxsCallLogs.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CraxsCallLogs.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CraxsCallLogs.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\CraxsCallLogs.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ContactsManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ContactsManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ContactsManager.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\ContactsManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "comptableform.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\comptableform.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\comptableform.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\comptableform.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "alertform.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\alertform.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\alertform.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\alertform.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "nonetform.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\nonetform.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\nonetform.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\nonetform.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-07-20T00:55:11.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ClipboardManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\ClipboardManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\ClipboardManager.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\ClipboardManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Calls_Records.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\Calls_Records.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\Calls_Records.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\Calls_Records.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CallPhone.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CallPhone.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CallPhone.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\CallPhone.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CameraManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\CameraManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\CameraManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MultiSounds.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\MultiSounds.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\MultiSounds.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\MultiSounds.cs",
+              "RelativeToolTip": "CraxsRat\\MultiSounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SelfRemove.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\SelfRemove.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\SelfRemove.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\SelfRemove.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "smsMaker.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\smsMaker.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\smsMaker.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\smsMaker.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SMSManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\SMSManager.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\SMSManager.cs",
+              "ToolTip": "C:\\Users\\mrsre\\Desktop\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat V7.4 Src\\CraxsRat Src\\CraxsRat\\SMSManager.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AsyncLock.cs",
+              "DocumentMoniker": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\AsyncLock.cs",
+              "RelativeDocumentMoniker": "CraxsRat\\AsyncLock.cs",
+              "ToolTip": "D:\\CraxsRat Src 7.4 @Enfected\\CraxsRat\\AsyncLock.cs",
+              "RelativeToolTip": "CraxsRat\\AsyncLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:55:11.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

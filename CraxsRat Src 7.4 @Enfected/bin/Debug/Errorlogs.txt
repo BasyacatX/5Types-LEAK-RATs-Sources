@@ -1,0 +1,46 @@
+
+2024/10/12 14:21:58 - 参数无效。
+
+2024/10/12 14:23:54 - 参数无效。
+
+2024/10/12 14:25:14 - 参数无效。
+Unhandled Exception: 参数无效。
+Stack Trace:    在 System.Drawing.Graphics.MeasureString(String text, Font font, SizeF layoutArea, StringFormat stringFormat)
+   在 System.Drawing.Graphics.MeasureString(String text, Font font)
+   在 DrakeUI.Framework.FontImages.GetIconSize(Int32 iconText, Graphics graphics, Font font)
+   在 DrakeUI.Framework.FontImages.GetFontSize(Int32 iconText, Int32 imageSize)
+   在 DrakeUI.Framework.FontImages.GetFont(Int32 iconText, Int32 imageSize)
+   在 DrakeUI.Framework.FontImageHelper.GetFont(Int32 symbol, Int32 imageSize)
+   在 DrakeUI.Framework.FontImageHelper.GetFontImageSize(Graphics graphics, Int32 symbol, Int32 symbolSize)
+   在 DrakeUI.Framework.FontImageHelper.DrawFontImage(Graphics graphics, Int32 symbol, Int32 symbolSize, Color color, RectangleF rect, Int32 xOffset, Int32 yOffSet)
+   在 DrakeUI.Framework.DrakeUIButtonIcon.OnPaint(PaintEventArgs e)
+   在 System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   在 System.Windows.Forms.Control.WmPaint(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+-------------------
+Unhandled Exception: 参数无效。
+Stack Trace:    在 System.Drawing.Graphics.MeasureString(String text, Font font, SizeF layoutArea, StringFormat stringFormat)
+   在 System.Drawing.Graphics.MeasureString(String text, Font font)
+   在 DrakeUI.Framework.FontImages.GetIconSize(Int32 iconText, Graphics graphics, Font font)
+   在 DrakeUI.Framework.FontImages.GetFontSize(Int32 iconText, Int32 imageSize)
+   在 DrakeUI.Framework.FontImages.GetFont(Int32 iconText, Int32 imageSize)
+   在 DrakeUI.Framework.FontImageHelper.GetFont(Int32 symbol, Int32 imageSize)
+   在 DrakeUI.Framework.FontImageHelper.GetFontImageSize(Graphics graphics, Int32 symbol, Int32 symbolSize)
+   在 DrakeUI.Framework.FontImageHelper.DrawFontImage(Graphics graphics, Int32 symbol, Int32 symbolSize, Color color, RectangleF rect, Int32 xOffset, Int32 yOffSet)
+   在 DrakeUI.Framework.DrakeUIButtonIcon.OnPaint(PaintEventArgs e)
+   在 System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   在 System.Windows.Forms.Control.WmPaint(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+-------------------
+Unhandled Exception: 参数无效。
+Stack Trace:    在 System.Drawing.Bitmap..ctor(String filename)
+   在 Build.StartWork(String final) 位置 C:\Users\tarek\Desktop\CraxsRat Src\CraxsRat\Build.cs:行号 10800
+   在 Build.SelectedApk_Click_1(Object sender, EventArgs e) 位置 C:\Users\tarek\Desktop\CraxsRat Src\CraxsRat\Build.cs:行号 13467
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 DrakeUI.Framework.DrakeUIButton.OnClick(EventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+-------------------

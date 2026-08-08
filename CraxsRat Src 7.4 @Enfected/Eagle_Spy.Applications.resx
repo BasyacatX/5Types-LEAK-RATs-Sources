@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MaterialSymbolsCircle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MaterialSymbolsCircle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-guarantee-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-guarantee-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="applications" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\applications.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-notification-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-notification-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-delete-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-delete-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-folder-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-folder-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-terminal-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-terminal-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="photo_2023-11-21_13-40-14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\photo_2023-11-21_13-40-14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-public-speaking-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-public-speaking-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IonLocked" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\IonLocked.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaterialSymbolsMinimizeRounded" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MaterialSymbolsMinimizeRounded.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="account" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\account.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-folder-501" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-folder-501.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-stop-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-stop-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-phone-1001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-phone-1001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OpenToolStripMenuItem.Image" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAKAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEQAAABEIBgAAADttR/oAAAAgY0hSTQAAeiUAAICDAAD5/wAAgOkAAHUwAADqYAAAOpgAABdvkl/FRgAAAAlwSFlzAAALEgAACxIB0t1+/AAAAK5JREFUOE+9k0EOwiAQRdm5cOclGj2HZyaQEAh3MtFNO84nbTNQW51q/MlPmQ/zAi01RPS1F0GMcWDThvu2pyrgV4ukP4XczIYw3/ZUBTxB+CmP0BUCC/NtT1XAWDQuHqbMOXcqBJYWMp9dSgXx3h+ttYfSKaSCrGk3BDvCzjDeBRH5HbUagq8i8gcyNYTHHXu+L2P2vxf7k3+nZ8sr3/o9JIRwSSld15xzPtc9ZJ4QLMhiUIUTPQAAAABJRU5ErkJgggs=</value>
+  </data>
+  <data name="icons8-back-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-back-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-cloud-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-cloud-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-mobile-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-mobile-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eagle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\eagle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-client-1001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-client-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-target-audience-68" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-target-audience-68.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-cloud-64 (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-cloud-64 (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-sms-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-sms-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-restart-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-restart-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-electric-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-electric-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-microsoft-admin-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-microsoft-admin-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-play-record-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-play-record-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-internet-antenna-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-internet-antenna-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Android_logo_2019_(stacked)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Android_logo_2019_(stacked).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-contact-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-contact-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-keyboard-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-keyboard-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-xbox-menu-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-xbox-menu-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-browser-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-browser-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-message-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-message-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QQ20241001-173026" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QQ20241001-173026.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-no-audio-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-no-audio-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VaadinPaperplane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\VaadinPaperplane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-email-48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-email-48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-client-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-client-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="contacts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\contacts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-padlock-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-padlock-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-kindle-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-kindle-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\download-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-access-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-access-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-number-pad-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-number-pad-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-cell-phone-with-up-and-down-arrows-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-cell-phone-with-up-and-down-arrows-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TeenyiconsUnlockSolid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TeenyiconsUnlockSolid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sms" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\sms.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-shortcut-1001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-shortcut-1001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-speaker-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-speaker-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-google-play-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-google-play-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-android-studio-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-android-studio-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-minus-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-minus-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-cut-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-cut-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-folder-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-folder-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LetsIconsReturn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\LetsIconsReturn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Panel6.BackgroundImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Panel6.BackgroundImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-bank-1001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-bank-1001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="calls" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\calls.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-lock-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-lock-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-lock-961" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-lock-961.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-padlock-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-padlock-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-online-support-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-online-support-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-ocr-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-ocr-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-video-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-video-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-hand-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-hand-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-lock-643" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-lock-643.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Android_logo_2019_(stacked)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Android_logo_2019_(stacked)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-block-user-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-block-user-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-x-642" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-x-642.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="remo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\remo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-google-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-google-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-power-off-button-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-power-off-button-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-location-100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-location-100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\download-removebg-preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-send-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-send-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-play-record-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-play-record-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-stop-503" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-stop-503.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Screenshot_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-clean-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-clean-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QQ20241001-173033" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QQ20241001-173033.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-x-30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-x-30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-restart-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-restart-641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="as" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\as.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-locked-network-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\icons8-locked-network-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="add" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>bin\Debug\res\Icons\Menu_Items\17\add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaterialSymbolsCloseRounded" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MaterialSymbolsCloseRounded.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QQ20241001-174754" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QQ20241001-174754.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

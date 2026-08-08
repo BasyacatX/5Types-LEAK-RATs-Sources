@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: temp.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.0
+versionInfo:
+  versionCode: '3000'
+  versionName: 3.0.0.0

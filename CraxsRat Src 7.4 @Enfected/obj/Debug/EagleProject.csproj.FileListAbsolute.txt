@@ -1,0 +1,405 @@
+C:\Users\Eagle\Documents\src47\Eagle - Copy\bin\Debug\EagleSpy.exe
+C:\Users\Eagle\Documents\src47\Eagle - Copy\bin\Debug\EagleSpy.pdb
+C:\Users\Eagle\Documents\src47\Eagle - Copy\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy\bin\Debug\SipaaFramework.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleSpy.g.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.CraxsAbout.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.CraxsSettings.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.CraxsStore.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleProject.csproj.CopyComplete
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleSpy.exe
+C:\Users\Eagle\Documents\src47\Eagle - Copy\obj\Debug\EagleSpy.pdb
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\bin\Debug\EagleSpy.exe
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\bin\Debug\EagleSpy.pdb
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\bin\Debug\Guna.UI2.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\bin\Debug\SipaaFramework.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleSpy.g.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleProject.csproj.CopyComplete
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleSpy.exe
+C:\Users\Eagle\Documents\src47\Eagle - Copy - Copy\obj\Debug\EagleSpy.pdb
+C:\Users\mybook\Downloads\Eagle - src\bin\Debug\EagleSpy.exe
+C:\Users\mybook\Downloads\Eagle - src\bin\Debug\EagleSpy.pdb
+C:\Users\mybook\Downloads\Eagle - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\mybook\Downloads\Eagle - src\bin\Debug\Guna.UI2.dll
+C:\Users\mybook\Downloads\Eagle - src\bin\Debug\SipaaFramework.dll
+C:\Users\mybook\Downloads\Eagle - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleSpy.g.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleProject.csproj.CopyComplete
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleSpy.exe
+C:\Users\mybook\Downloads\Eagle - src\obj\Debug\EagleSpy.pdb
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleSpy.g.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleSpy.exe
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleSpy.pdb
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\EagleSpy.exe
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\EagleSpy.pdb
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\Guna.UI2.dll
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\SipaaFramework.dll
+C:\Users\sasha\Desktop\Eagle - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\sasha\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.CopyComplete
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\Guna.UI2.dll
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\SipaaFramework.dll
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\EaglePro.22724F00.Up2Date
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\CraxsRat.exe
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\bin\Debug\CraxsRat.pdb
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\CraxsRat.g.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\CraxsRat.exe
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\CraxsRat.pdb
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Faker.resources
+C:\Users\AnOn\Desktop\Eagle - src Tiger\Eagle - src\obj\Debug\Jector.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\CraxsRat.g.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Faker.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Jector.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\CraxsRat.exe
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\CraxsRat.pdb
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\CraxsRat.exe
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\CraxsRat.pdb
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\Guna.UI2.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\NAudio.Core.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\NAudio.WinMM.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\SipaaFramework.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\NAudio.Core.xml
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\NAudio.WinMM.xml
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\AnOn\Desktop\New folder (2)\Eagle - src Tiger\Eagle - src\obj\Debug\EaglePro.22724F00.Up2Date
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Guna.UI2.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.Core.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.WinMM.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\SipaaFramework.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.Core.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.WinMM.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.AssemblyReference.cache
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.g.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Faker.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Jector.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMsgbox.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.GenerateResource.cache
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\EagleProject.csproj.CoreCompileInputs.cache
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\EaglePro.22724F00.Up2Date
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\EagleSpySettinngs.resources

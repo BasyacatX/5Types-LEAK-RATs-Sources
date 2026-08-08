@@ -1,0 +1,6 @@
+/CraxsRat[[:space:]]Src[[:space:]]7.4[[:space:]]@Enfected/Craxs_Rat.Resources.resx filter=lfs diff=lfs merge=lfs -text
+/CraxsRat[[:space:]]Src[[:space:]]7.4[[:space:]]@Enfected/bin/Debug/CraxsRat[[:space:]]v7.4.exe filter=lfs diff=lfs merge=lfs -text
+/CraxsRat[[:space:]]Src[[:space:]]7.4[[:space:]]@Enfected/bin/Debug/res/Lib/platformBinary.zip filter=lfs diff=lfs merge=lfs -text
+/CraxsRat[[:space:]]Src[[:space:]]7.4[[:space:]]@Enfected/obj/Debug/CraxsRat[[:space:]]v7.4.exe filter=lfs diff=lfs merge=lfs -text
+/CraxsRat[[:space:]]Src[[:space:]]7.4[[:space:]]@Enfected/obj/Debug/Craxs_Rat.Resources.resources filter=lfs diff=lfs merge=lfs -text
+/CraxsRat[[:space:]]Src[[:space:]]7.4[[:space:]]@Enfected/obj/Release/Eagle_Spy.Resources.resources filter=lfs diff=lfs merge=lfs -text

